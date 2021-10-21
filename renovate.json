@@ -6,10 +6,5 @@
     }
   ],
   "labels": ["dependencies"],
-  "branchPrefix":"feature/",
-  "additionalBranchPrefix":"NONJIRA-1",
-  "branchTopic" : "_dependencies_to_update_meli",
-  "commitMessagePrefix" : "feature/",
-  "commitMessageAction":"NONJIRA-1",
-  "commitMessageTopic" : "_dependencies_to_update_ml"
+
 }
